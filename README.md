@@ -1,16 +1,18 @@
-## Hi there 👋
+# Gil Andrey
 
-<!--
-**GilAndrey/GilAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/@gil_andrey-0027ab?style=flat-square)](https://instagram.com/gil_andrey) 
+[![LinkedIn](https://img.shields.io/badge/Gil%20Andrey-0027ab?style=flat-square)](https://linkedin.com/in/gil-andrey/) 
+[![Gmail](https://img.shields.io/badge/gilandrey.dev@gmail.com-0027ab?style=flat-square&logo=gmail&logoColor=white)](mailto:gilandrey.dev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about learning and live the logic througt programming
+
+Always exploring ideas, always building.
+
+
+> "Code is poetry, stay curious. Keep building."
+
