@@ -9,7 +9,7 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-Passionate about learning and live the logic througt programming
+Passionate about learning and live the logic through programming
 
 Always exploring ideas, always building.
 
